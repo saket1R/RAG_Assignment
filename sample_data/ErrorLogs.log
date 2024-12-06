@@ -1,0 +1,3 @@
+[2024-12-05 10:00:00] ERROR: Machine 001 stopped unexpectedly.
+[2024-12-05 10:05:00] INFO: Restart initiated for Machine 001.
+[2024-12-05 10:10:00] WARNING: Temperature exceeds recommended limits on Machine 002.
